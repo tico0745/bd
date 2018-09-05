@@ -1,0 +1,13 @@
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos','terrazas12','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos2','terrazas11','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marco3','terrazas10','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos4','terrazas9','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos5','terrazas8','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos6','terrazas7','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos7','terrazas6','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos9','terrazas5','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos10','terrazas4','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos11','terrazas3','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos12','terrazas2','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos13','terrazas2','marcoter@gmail.com','2018-07-04');
+INSERT INTO encargados (nombre, apellido, email, create_at) VALUES ('marcos14','terrazas1','marcoter@gmail.com','2018-07-04');
